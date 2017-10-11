@@ -1,0 +1,24 @@
+{
+  "name": "criteo-proofpoint",
+  "version": "1.0.0",
+  "description": "Criteo ProofPoint URL defense JS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/r3c/criteo-proofpoint-js.git"
+  },
+  "author": "Remi Caput",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r3c/criteo-proofpoint-js/issues"
+  },
+  "homepage": "https://github.com/r3c/criteo-proofpoint-js#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "prettier": "^1.7.4"
+  }
+}
