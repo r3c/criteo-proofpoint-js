@@ -1,4 +1,4 @@
-Criteo JS API for ProofPoint URL defense
+Criteo JS API for ProofPoint URL defense [![Build Status](https://travis-ci.org/r3c/criteo-proofpoint-js.svg?branch=master)](https://travis-ci.org/r3c/criteo-proofpoint-js)
 ========================================
 
 Install
